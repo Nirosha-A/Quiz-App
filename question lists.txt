@@ -1,0 +1,35 @@
+ 
+ *** Questions List ***
+
+ Q.1: MS-Word is an example of ___________.
+       option 0 : An operating system
+       option 1 : A processing device
+       option 2 : Application software
+       option 3 : An input device
+
+ Q.2: National Income estimates in India are prepared by __________.
+       option 0 : Planning Commission
+       option 1 : Reserve Bank of India
+       option 2 : Central statistical organisation
+       option 3 :  Indian statistical Institute
+
+Q.3: Ctrl, Shift and Alt are called _________ keys.
+       option 0 : modifier
+       option 1 : function
+       option 2 : alphanumeric
+       option 3 : adjustment
+
+Q.4: The staple food of the Vedic Aryan was ________
+      option 0 : Barley and rice
+      option 1 : Milk and its products
+      option 2 : Rice and pulses
+      option 3 : Vegetables and fruits
+
+Q.5: The tropic of cancer does not pass through which of these Indian states ?
+      option 0 : Madhya Pradesh
+      option 1 : West Bengal
+      option 2 : Rajasthan
+      option 3 : Odisha
+    
+
+
